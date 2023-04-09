@@ -1,6 +1,6 @@
-# new_tiffin_seller
+# Planeat Seller
 
-A new Flutter project.
+App for newcomers who miss ethnic/home cooking  matching them to "moms" that supply weekly menu by cooking extra and having a side business
 
 ## Getting Started
 
